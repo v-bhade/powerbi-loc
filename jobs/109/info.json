@@ -3,16 +3,16 @@
   "jobId": 109,
   "files": [
     {
-      "fileName": "Pages/Enterprise/Index.resx",
+      "fileName": "Pages/Pricing/Index.resx",
       "wordCount": 70,
       "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78550"
     }
   ],
   "cultures": [
     {
-      "culture": "ja-jp",
+      "culture": "it-it",
       "status": "handed-off",
-      "handBackETA": "2017-05-06T05:25",
+      "handBackETA": "",
       "handOffDate": "2017-03-31T23:20",
       "handBackDate": "",
       "integrationDate": ""
