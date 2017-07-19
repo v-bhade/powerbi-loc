@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AppService_Content" xml:space="preserve">
+    <value>&lt;p&gt;Quickly build and host up to 10 web and mobile apps on any platform or device.&lt;/p&gt;</value>
+  </data>
+  <data name="Explore_Cta" xml:space="preserve">
+    <value>Explore all of our free options</value>
+  </data>
+  <data name="Hero_Cta" xml:space="preserve">
+    <value>Start free</value>
+  </data>
+  <data name="Hero_Faq_Link" xml:space="preserve">
+    <value>Frequently asked questions</value>
+  </data>
+  <data name="Hero_Heading" xml:space="preserve">
+    <value>Create your free Azure account today</value>
+  </data>
+  <data name="IoTHub_Content_1" xml:space="preserve">
+    <value>&lt;p&gt;Get up to {0:N0} free messages per day allowing you to monitor and control up to 10 of your IoT devices.&lt;/p&gt;</value>
+  </data>
+  <data name="MachineLearning_Content" xml:space="preserve">
+    <value>&lt;p&gt;Start building advanced analytics in the cloud today by creating machine learning experiments.&lt;/p&gt;</value>
+  </data>
+  <data name="META_DESCRIPTION" xml:space="preserve">
+    <value>Create your free account today with Microsoft Azure</value>
+  </data>
+  <data name="META_KEYWORDS" xml:space="preserve">
+    <value />
+  </data>
+  <data name="META_PAGETITLE" xml:space="preserve">
+    <value>Create your free Azure account today | Microsoft Azure</value>
+  </data>
+  <data name="MoreQuestions_1" xml:space="preserve">
+    <value>More questions? Call us {0}</value>
+  </data>
+  <data name="Section_Credit_Heading" xml:space="preserve">
+    <value>Use your {0} credit and...</value>
+  </data>
+  <data name="Section_Credit_List" xml:space="preserve">
+    <value>&lt;li&gt;Provision up to 14 virtual machines, 40 SQL databases, or 8 TBs of storage for a month&lt;/li&gt;
+&lt;li&gt;Build web, mobile, and API apps that use Redis Cache, Search, or Content Delivery Network&lt;/li&gt;
+&lt;li&gt;Harness big data with Machine Learning, Streaming Analytics, and Hadoop&lt;/li&gt;
+&lt;li&gt;Create real-time Internet of Things (IoT) apps with monitoring and anomaly-detection&lt;/li&gt;</value>
+  </data>
+  <data name="Section_KeepGoing_Heading" xml:space="preserve">
+    <value>Keep going with Azure for free</value>
+  </data>
+  <data name="Section_KeepGoing_Subheading" xml:space="preserve">
+    <value>Others might get you started for free, we keep you going for free—regardless of your subscription type.</value>
+  </data>
+  <data name="Hero_Cta_B" xml:space="preserve">
+    <value>Or buy now</value>
+  </data>
+  <data name="Call_Sales_1" xml:space="preserve">
+    <value>Call sales {0}</value>
+  </data>
+  <data name="Chat_With_Sales" xml:space="preserve">
+    <value>Chat with sales</value>
+  </data>
+  <data name="ActiveDirectory_Content" xml:space="preserve">
+    <value>&lt;p&gt;Get support for up to 500,000 directory objects and single sign-on for up to 10 apps per user.&lt;/p&gt;</value>
+  </data>
+  <data name="MobileEngagement_Content" xml:space="preserve">
+    <value>&lt;p&gt;Maximize mobile apps usage and revenue with up to 100 monthly users free per month on our data-driven user engagement platform.&lt;/p&gt;</value>
+  </data>
+  <data name="NotificationHubs_Content" xml:space="preserve">
+    <value>&lt;p&gt;Send up to 1 million push notifications per month free, broadcast them to millions of users at once, or tailor them to individual users.&lt;/p&gt;</value>
+  </data>
+  <data name="OperationalInsights_Content" xml:space="preserve">
+    <value>&lt;p&gt;Turn up to 500 MB of operational data per month into actionable insights about your IT operations.&lt;/p&gt;</value>
+  </data>
+  <data name="VirtualNetwork_Content" xml:space="preserve">
+    <value>&lt;p&gt;Create your private network in the cloud with up to 50 free virtual networks.&lt;/p&gt;</value>
+  </data>
+  <data name="CC_GetFreeCredit_Content" xml:space="preserve">
+    <value>Start free with {0} in credit, and keep going with free options.</value>
+  </data>
+  <data name="CC_GetFreeCredit_Heading" xml:space="preserve">
+    <value>Get {0} free credit</value>
+  </data>
+  <data name="CC_PayNothing_Content" xml:space="preserve">
+    <value>We use your credit card information for identity verification, but you’ll never be charged unless you choose to subscribe.</value>
+  </data>
+  <data name="CC_PayNothing_Heading" xml:space="preserve">
+    <value>Pay nothing at the end</value>
+  </data>
+  <data name="CC_TryServices_Content" xml:space="preserve">
+    <value>Explore our cloud by trying out any combination of Azure services for 30 days.</value>
+  </data>
+  <data name="CC_TryServices_Heading" xml:space="preserve">
+    <value>Try any Azure services</value>
+  </data>
+  <data name="PortalScreenshot_Alt" xml:space="preserve">
+    <value>An Azure account web page</value>
+  </data>
+  <data name="PortalGif_Alt" xml:space="preserve">
+    <value>An animated gif of the Azure portal.</value>
+  </data>
+  <data name="AzureTraining" xml:space="preserve">
+    <value>Access free online Azure training courses</value>
+  </data>
+</root>
