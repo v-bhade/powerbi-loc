@@ -1,0 +1,369 @@
+{
+  "schemaVersion": "3",
+  "jobId": 15,
+  "files": [
+    {
+      "fileName": "Resources.resx",
+      "wordCount": 150,
+      "sha": "a1a5973313f60d8e38a7490a904bc4ccdb3b814c"
+    }
+  ],
+  "cultures": [
+    {
+      "culture": "cs-cz",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "da-dk",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "de-de",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "es-es",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "fr-fr",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "hu-hu",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "it-it",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ja-jp",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ko-kr",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "nl-nl",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "pl-pl",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "pt-br",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "pt-pt",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ru-ru",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "sv-se",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "tr-tr",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "zh-cn",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "zh-tw",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-in",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-gb",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "nb-no",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ar-sa",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "eu-es",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "bg-bg",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ca-es",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "hr-hr",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "et-ee",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "gl-es",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "he-il",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "hi-in",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "id-id",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "kk-kz",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "lv-lv",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "lt-lt",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ms-my",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "sk-sk",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "sl-si",
+      "status": "integrated",
+      "handBackETA": "2017-08-16T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "2017-08-12T01:10",
+      "integrationDate": "2017-08-12T01:11"
+    },
+    {
+      "culture": "th-th",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "vi-vn",
+      "status": "handed-off",
+      "handBackETA": "2017-08-15T10:23",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "el-gr",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "fi-fi",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ro-ro",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "uk-ua",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-08-10T22:13",
+      "handBackDate": "",
+      "integrationDate": ""
+    }
+  ],
+  "generated": "2017-08-10T22:13",
+  "fileCount": 1,
+  "latest": "106ecb06d06a8f9ddd2048aa8f5d35cdd1f9f4b7",
+  "branch": "master",
+  "status": "partially-integrated",
+  "statusComment": "",
+  "handOffType": "individual-files",
+  "priority": 1,
+  "localizationType": "standard",
+  "workItems": "",
+  "workItemNumber": null,
+  "submittedBy": null
+}
