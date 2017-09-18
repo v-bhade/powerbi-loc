@@ -1,0 +1,215 @@
+commit a681689c8ee5978683cd997523cdb58aedb39ffb
+Author: v-pegao <654871668@qq.com>
+Date:   Tue Sep 19 05:12:25 2017 +0800
+
+    test
+
+commit 4fed9e44164010a1bf5057a2b0e278a8c5754340
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Mon Aug 14 16:02:09 2017 +0800
+
+    Update info.json
+
+commit 3d71e0623756f8d2551a7a3819548a2654aff3e1
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Mon Aug 14 16:01:01 2017 +0800
+
+    Rename test.resx to Index.resx
+
+commit bfea6dd2d993867318e2e087e64b4e10a7086848
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Mon Aug 14 15:56:40 2017 +0800
+
+    Rename jobs/108/Pages/Pricing/test.resx to jobs/13/Pages/Pricing/test.resx
+
+commit c899b01e5b888e10ca83b7d1d01e9f17a1a50ae9
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Mon Aug 14 15:56:01 2017 +0800
+
+    Rename jobs/108/info.json to jobs/13/info.json
+
+commit d8c469d70923711657a10611c6641f5e726865aa
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Mon Aug 14 15:55:45 2017 +0800
+
+    Update info.json
+
+commit 37920e48cbe706e7455a4f12c38e928aa57204eb
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Mon Aug 14 13:47:56 2017 +0800
+
+    Create Resources.resx
+
+commit 306893777ee51264fdf63cd1db83567ffa53988e
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Mon Aug 14 13:46:52 2017 +0800
+
+    Create info.json
+
+commit 9bf180313410fab2646b8c25034e5d7c3dfd1999
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Mon Aug 14 13:41:58 2017 +0800
+
+    Update info.json
+
+commit 217f6c499e55993583ac8f1a409e9477e016f9f8
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Mon Aug 14 13:41:13 2017 +0800
+
+    Update info.json
+
+commit 42c5319f6c5cca2a15cea9b658fd7edb16ce12bb
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Wed Jul 19 13:54:42 2017 +0800
+
+    Rename jobs/108/Pages/Pricing/info.json to jobs/108/info.json
+
+commit 3a68e0c962c65e2834ee3e55bb522248cfe3d27c
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Wed Jul 19 13:54:08 2017 +0800
+
+    Rename jobs/109/info.json to jobs/107/info.json
+
+commit 8232aa72ea70149644e8ea1325e84cc273d616d7
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Wed Jul 19 13:53:35 2017 +0800
+
+    Rename jobs/109/Pages/Free/Index.resx to jobs/107/Pages/Free/Index.resx
+
+commit dd1daa249657f258386a17cb3a70e459f13303ef
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Wed Jul 19 13:41:20 2017 +0800
+
+    Update info.json
+
+commit a5f3e9b6b9c98bc9edac6c108558a5451a241ead
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Wed Jul 19 13:40:38 2017 +0800
+
+    Index.resx
+
+commit 81c9a895ff8194e6c4972461da8f57e93d1c0851
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Wed Jul 19 13:37:44 2017 +0800
+
+    Create info.json
+
+commit 83da3cd0f858bf5108632a54b32fc78dac753db0
+Author: v-pegao <v-pegao@users.noreply.github.com>
+Date:   Wed Jul 19 13:36:20 2017 +0800
+
+    Rename jobs/109/Pages/Pricing/Index.resx to jobs/108/Pages/Pricing/test.resx
+
+commit 3ba2d2626ea7e83d7b7ba0a98934ea94b141f2b3
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Thu Jun 22 16:29:42 2017 +0800
+
+    Update Index.resx
+
+commit 0c446d0606e47693bea26298ed77e9fe86f8a7f1
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Thu Jun 22 16:06:43 2017 +0800
+
+    Update and rename jobs/109/Pages/Enterprise/Index.resx to jobs/109/Pages/Pricing/Index.resx
+
+commit b43dce80cfd4f43262e88b9f77871f4c432e6128
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Thu Jun 22 16:06:00 2017 +0800
+
+    Delete Index.ja-JP.resx
+
+commit a7003c8cba6a36c2cb11d99717d8bbf781cfcc32
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Thu Jun 22 16:05:35 2017 +0800
+
+    Update info.json
+
+commit 39a3b67f914341934f1bdd7c3698df3393ddd259
+Merge: 70c9f8b 806e8e0
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Fri May 5 15:26:28 2017 +0800
+
+    Merge pull request #2 from v-pegao/ResxAC116
+    
+    Loc Automation - partial handback for Branch: ResxAC116
+
+commit 806e8e09d165316ccf36d4c829cef32847c3a2af
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Fri May 5 00:17:24 2017 -0700
+
+    Automated Loc handback
+
+commit 70c9f8b483969e40a14962c63407e1c633c93abe
+Merge: 9d45e81 c7acdbb
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Fri May 5 13:29:51 2017 +0800
+
+    Merge pull request #1 from v-pegao/109
+    
+    Loc Automation - Updating ETA of loc job: 109
+
+commit c7acdbb5522622f8eba05104d4ffac1cb006571a
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Thu May 4 22:25:47 2017 -0700
+
+    Automated Loc handback
+
+commit 9d45e8145d8a59441d859dacb81cf9647c45356f
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Fri May 5 13:02:53 2017 +0800
+
+    Rename 109/info.json to jobs/109/info.json
+
+commit 50f48b3b40631d91969bea6042d9ec0e0d7f1b32
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Fri May 5 13:01:52 2017 +0800
+
+    Rename 109/Pages/Enterprise/Index.resx to jobs/109/Pages/Enterprise/Index.resx
+
+commit 48a4ce11452ff5fd64f83008e741bde9e414dffb
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Fri May 5 11:32:49 2017 +0800
+
+    Update and rename 109/Pages/Types.resx to 109/Pages/Enterprise/Index.resx
+
+commit 4a2814aacac66ac3942fce03c891ecf584b628e3
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Fri May 5 11:31:37 2017 +0800
+
+    Update info.json
+
+commit 9c903ba13775d133531b4b29407294672ab430be
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Wed Apr 12 10:47:59 2017 +0800
+
+    Create Types.resx
+
+commit a216817d93f979dd12a34388f6e7b797ef13d15b
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Wed Apr 12 10:47:25 2017 +0800
+
+    Create info.json
+
+commit 1304d7cbefe9c08972b33679d29359528cfc5848
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Wed Apr 12 10:44:44 2017 +0800
+
+    Update and rename jobs/info.json to jobs.json
+
+commit bd1d98648eae57bc9c55c05c7673e35a9298fc65
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Sat Apr 1 14:15:43 2017 +0800
+
+    Update info.json
+
+commit cab9b93b07bc3878c2686760d574308034a64cd9
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Sat Apr 1 14:13:21 2017 +0800
+
+    Create info.json
+
+commit 7a61b949dd4838a39cd22a796e863ffc454cad2e
+Author: v-pegao <v-pegao@microsoft.com>
+Date:   Sat Apr 1 10:59:09 2017 +0800
+
+    Initial commit
